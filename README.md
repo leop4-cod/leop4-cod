@@ -48,7 +48,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🥗 E-Commerce Dietética & Salud</h3>
+      <h3 align="center"> E-Commerce Dietética & Salud</h3>
       <p align="center">
         Sistema empresarial de comercio electrónico, gestión de inventarios, carritos de compras y reserva de consultas nutricionales.
       </p>

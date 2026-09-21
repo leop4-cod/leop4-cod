@@ -2,7 +2,7 @@
 <h3 align="center">Tecnólogo Superior en Desarrollo de Software | Full Stack & Backend Developer</h3>
 
 <p align="center">
-  Graduado de la <b>Universidad UTE</b> con experiencia práctica en el sector público (<b>SENADI</b>). Especializado en la creación de arquitecturas backend robustas, APIs REST escalables, persistencia de datos (SQL/NoSQL) y despliegues en infraestructura cloud como <b>DigitalOcean</b>.
+  Graduado de la <b>Universidad UTE</b> con experiencia práctica en el sector público. Especializado en la creación de arquitecturas backend robustas, APIs REST escalables, persistencia de datos (SQL/NoSQL) y despliegues en infraestructura cloud como <b>DigitalOcean</b>.
 </p>
 
 <p align="center">
